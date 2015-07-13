@@ -1,8 +1,7 @@
-![](public/favicon-96x96.png)
+ProjectB
 
-# [Meteor Hunt](http://meteorhunt.meteor.com/)
+Mobile app for users to share, validate, collaborate on ideas. ProjectB
 
-A [Product Hunt](http://www.producthunt.com/apps/ios) clone built using [meteoric:meteor-ionic](https://github.com/meteoric/meteor-ionic). **Currently in progress**
 
 ## Running the app
 
